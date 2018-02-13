@@ -1,0 +1,17 @@
+.small-image {
+  float: left;
+  margin-right: 10px;
+  width: 100px;
+}
+
+h1, h2 {
+  font-family: 'Oswald', Monospaced;
+}
+
+body {
+  font-family: 'Open Sans', Monospaced;
+  color: darkblue;
+  background-color: ivory;
+  margin: 10px 50px 10px 50px;
+
+}
