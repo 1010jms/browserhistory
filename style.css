@@ -1,0 +1,18 @@
+.small-image {
+  width: 100px;
+  display: inline-flex;
+}
+
+.header {
+  font-family: Oswald;
+}
+
+.text {
+  font-family: Open Sans;
+  color:DarkBlue;
+}
+
+#margins {
+  background-color: ivory;
+  margin: 10px 50px 10px 50px;
+}
