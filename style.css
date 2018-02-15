@@ -15,18 +15,3 @@ body {
   margin: 10px 50px 10px 50px;
 
 }
-
-ul {
-  list-style: none;
-  overflow: hidden;
-}
-
-li {
-  float: left;
-  padding: 16px;
-}
-
-.column {
-  float: left;
-  width: 300px;
-}
