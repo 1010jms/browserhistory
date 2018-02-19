@@ -1,32 +1,7 @@
-.small-image {
-  float: left;
-  margin-right: 10px;
-  width: 100px;
+body {
+  margin: 50px 50px 50px 50px;
 }
 
 h1, h2 {
-  font-family: 'Oswald', Monospaced;
-}
-
-body {
-  font-family: 'Open Sans', Monospaced;
-  color: darkblue;
-  background-color: ivory;
-  margin: 10px 50px 10px 50px;
-
-}
-
-ul {
-  list-style: none;
-  overflow: hidden;
-}
-
-li {
-  float: left;
-  padding: 16px;
-}
-
-.column {
-  float: left;
-  width: 300px;
+  color: blue;
 }
